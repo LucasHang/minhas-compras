@@ -1,0 +1,1 @@
+In this directory files are saved and processed to better OCR results
